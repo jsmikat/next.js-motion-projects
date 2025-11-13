@@ -20,5 +20,12 @@
     "*.css": "tailwindcss"
   },
   "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.userWords": ["tailwindcss", "trivago", "clsx"]
+  "cSpell.userWords": [
+    "tailwindcss",
+    "trivago",
+    "clsx"
+  ],
+  "cSpell.words": [
+    "turbopack"
+  ]
 }
